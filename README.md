@@ -13,7 +13,9 @@ These models can detect multiple objects in each frame with bounding boxes and c
 
 # Features
 Real-time object detection
+
 Uses fast, pretrained deep learning models
+
 simple, beginner friendly architecture
 
 
