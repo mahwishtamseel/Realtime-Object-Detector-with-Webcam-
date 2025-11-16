@@ -18,4 +18,23 @@ Uses fast, pretrained deep learning models
 
 simple, beginner friendly architecture
 
+# Technologies Used
+Python
 
+OpenCV - for webcam access and drawing boxes
+
+NumPy - handling arrays and frames
+
+YOLO (Ultralytics) - pre-trained object detection model
+
+# What I am learning
+
+Difference between image classification and object detection
+
+How pre-trained models work
+
+How to load YOLO weights
+
+How to read webcam input using cv2.VideoCapture()
+
+How to run inference on each video frame
