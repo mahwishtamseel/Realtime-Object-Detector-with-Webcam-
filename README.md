@@ -16,4 +16,4 @@ Real-time object detection
 Uses fast, pretrained deep learning models
 simple, beginner friendly architecture
 
-X
+
