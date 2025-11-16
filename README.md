@@ -42,6 +42,6 @@ How to run inference on each video frame
 
 # Installations
 Intall required packages
-`pip install opencv-python numpy torch torchvision ultralytics`
+```pip install opencv-python numpy torch torchvision ultralytics```
 
 
