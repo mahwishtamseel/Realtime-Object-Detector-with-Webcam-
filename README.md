@@ -41,6 +41,8 @@ How to read webcam input using cv2.VideoCapture()
 How to run inference on each video frame
 
 # Installations
+Make sure you have installed python 3.10+.
+
 Intall required packages
 ```pip install opencv-python numpy torch torchvision ultralytics```
 
