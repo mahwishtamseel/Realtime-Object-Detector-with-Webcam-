@@ -44,4 +44,14 @@ How to run inference on each video frame
 Intall required packages
 ```pip install opencv-python numpy torch torchvision ultralytics```
 
+# Work in progress
+I am currently:
+
+Setting up the environment
+
+Learning how to run YOLO
+
+Understanding webcam frame processing
+
+Updates will be added soon!
 
