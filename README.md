@@ -37,9 +37,11 @@ How to load YOLO weights
 
 How to read webcam input using cv2.VideoCapture()
 
-# Installations
-Intall required packages
-pip install opencv-python numpy torch torchvision ultralytics
-
 
 How to run inference on each video frame
+
+# Installations
+Intall required packages
+`pip install opencv-python numpy torch torchvision ultralytics`
+
+
